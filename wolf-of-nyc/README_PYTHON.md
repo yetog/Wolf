@@ -32,6 +32,7 @@ This application uses the following Python packages:
 - `faiss-cpu>=1.7.0` - Vector database
 - `langchain-openai>=0.1.0` - OpenAI integration
 - `tiktoken>=0.5.0` - Text tokenization
+- pip install gtts gradio faiss-cpu numpy pandas requests
 
 ## 🌟 Features
 
